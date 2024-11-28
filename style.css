@@ -1,0 +1,25 @@
+body{
+    margin: 0 ;
+    padding:0;
+    background-color: #854a75;
+    
+}
+.section-1{
+    
+    color: #f7f6f6;
+    padding: 300px 0;
+    text-align: center;
+    
+    
+}
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+}
+h2{
+    font-size: .5rem;
+    font-weight: normal;
+    line-height:1.5em;
+}
+
+
